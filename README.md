@@ -16,3 +16,6 @@ Conhecer Prazos e Limites: Indicar a duração da proteção no Brasil e em trat
 Explorar Direitos Conexos e Software: Identificar quem são os beneficiários dos direitos conexos (artistas, produtores e empresas de radiodifusão) e entender as regras específicas para programas de computador
 
 Para avançarmos, qual desses pontos desperta mais sua curiosidade agora? Sabendo disso, posso te dar um exemplo prático ou aprofundar o tema.
+
+
+Foram criados mais 4 documentos para cumprir a tarefa, no total nesse repositório temos 5 documentos.
